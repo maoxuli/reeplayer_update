@@ -19,6 +19,10 @@ sudo pip3 install setuptools docker-compose
 
 ## install inotify-tools 
 echo "Install extra tools"
-sudo apt-get install -y inotify-tools
+sudo apt-get install -y curl inotify-tools
+
+## prepare directories for camera software 
+sudo mkdir /opt/reeplayer
+sudo chown -R $(id -u):$(id -g) /opt/reeplayer 
 
 set +e 
