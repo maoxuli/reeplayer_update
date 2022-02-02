@@ -1,3 +1,7 @@
+## [0.6.3] = 2022-02-02
+### Exchanged 
+- Fix the bugs for the sync between cameras; 
+
 ## [0.6.2] = 2022-02-01
 ### Exchanged 
 - Everything same as 0.6.1.0 but switched the camera's sensor IDs in config files. 
