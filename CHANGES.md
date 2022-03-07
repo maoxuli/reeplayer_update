@@ -1,9 +1,19 @@
+## [0.6.5] = 2022-02-18
+### Changed 
+- Use sensor timestamp for sync;
+- Use 3840x2160 as input resolution 
+- Disable both stitched video and raw video mode 
+
+## [0.6.4] = 2022-02-05
+### Fixed 
+- More strict timestamp sync, may lower the framerate; 
+
 ## [0.6.3] = 2022-02-02
-### Exchanged 
+### Fixed 
 - Fix the bugs for the sync between cameras; 
 
 ## [0.6.2] = 2022-02-01
-### Exchanged 
+### Changed 
 - Everything same as 0.6.1.0 but switched the camera's sensor IDs in config files. 
 
 ## [0.6.1] = 2022-01-31
