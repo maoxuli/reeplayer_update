@@ -1,3 +1,18 @@
+## [0.6.8] = 2022-05-03
+### Changed
+- A test version for image quality
+
+## [0.6.7] = 2022-03-28
+### Changed
+- Build on L4T 32.4.3 
+- Fix compatible issues for L4T 
+
+## [0.6.6] = 2022-03-27
+### Changed
+- re-write the nvarguscamerasrc plugin to open two sensors
+- Using deepstream sdk as the framework of the pipeline 
+- Support single session and multi-session mode for cameras to improve the sync  
+
 ## [0.6.5] = 2022-02-18
 ### Changed 
 - Use sensor timestamp for sync;
