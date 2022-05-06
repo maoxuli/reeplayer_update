@@ -1,3 +1,8 @@
+## [0.7.0] = 2022-05-05
+### Changed
+- Reset the code struture, managing with the vcstool 
+- A series of changes to improve the video quality 
+
 ## [0.6.8] = 2022-05-03
 ### Changed
 - A test version for image quality
