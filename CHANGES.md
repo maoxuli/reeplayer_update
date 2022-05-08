@@ -1,3 +1,12 @@
+## [0.7.2] = 2022-05-08
+### Added
+- Settings UI for recording 
+
+## [0.7.1] = 2022-05-06
+### Changed 
+- Some naming convetions with hyphen to replace the underscore 
+- Better recording settings 
+
 ## [0.7.0] = 2022-05-05
 ### Changed
 - Reset the code struture, managing with the vcstool 
