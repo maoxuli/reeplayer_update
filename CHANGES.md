@@ -1,3 +1,9 @@
+## [0.7.3] = 2022-05-10
+### Added
+- Settings ROI for recording 
+### Fixed 
+- Crash after recording mode switching 
+
 ## [0.7.2] = 2022-05-08
 ### Added
 - Settings UI for recording 
