@@ -1,3 +1,8 @@
+## [0.7.5] = 2022-05-14
+### Added
+- Camera API for mobile app  
+- Uploading management 
+
 ## [0.7.3] = 2022-05-10
 ### Added
 - Settings ROI for recording 
