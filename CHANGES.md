@@ -1,3 +1,13 @@
+## [0.8.0] = 2022-05-20
+### Changed
+- Code refactoring 
+- Re-work the Web GUI 
+### Added 
+- Recording ROI 
+- Online calibration 
+### Fixed
+- Some bugs that caused failure in re-start live video 
+
 ## [0.7.5] = 2022-05-14
 ### Added
 - Camera API for mobile app  
