@@ -1,3 +1,11 @@
+## [0.8.1] = 2022-05-28
+### Fixed
+- Bugs for camera API 
+
+## [0.8.1] = 2022-05-28
+### Changed
+- A new implementaiton of the Web GUI, for mobile device.
+
 ## [0.8.0] = 2022-05-20
 ### Changed
 - Code refactoring 
