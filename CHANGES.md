@@ -1,4 +1,8 @@
-## [0.8.1] = 2022-05-28
+## [0.8.3] = 2022-05-29
+### Changed
+- Custom health checking service in gRPC api 
+
+## [0.8.2] = 2022-05-28
 ### Fixed
 - Bugs for camera API 
 
