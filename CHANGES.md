@@ -1,3 +1,7 @@
+## [0.8.4] = 2022-05-31
+### Fixed
+- Sensor parameters and recording settings
+
 ## [0.8.3] = 2022-05-29
 ### Changed
 - Custom health checking service in gRPC api 
