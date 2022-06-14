@@ -1,3 +1,8 @@
+## [0.8.5] = 2022-06-10
+### Fixed
+- Online calib support by API 
+- Raw images support by API 
+
 ## [0.8.4] = 2022-05-31
 ### Fixed
 - Footage erase from api bug 
