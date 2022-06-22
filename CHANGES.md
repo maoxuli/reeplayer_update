@@ -1,3 +1,11 @@
+## [0.8.6] = 2022-06-19
+### Fixed
+- Testing and fix bugs for uploading api 
+- Bug fix for token and serial config 
+### Changed
+- Uploading status code 
+- Support image scale for online calib response 
+
 ## [0.8.5] = 2022-06-10
 ### Fixed
 - Online calib support by API 
