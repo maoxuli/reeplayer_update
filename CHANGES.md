@@ -1,3 +1,7 @@
+## [0.8.7] = 2022-06-23
+### Fixed
+- Fix config save bug 
+
 ## [0.8.6] = 2022-06-19
 ### Fixed
 - Testing and fix bugs for uploading api 
