@@ -1,3 +1,11 @@
+## [0.8.8] = 2022-06-23
+### Changed
+- Recording workflow adjustment to the same as mobile app
+- Uploading control on webpage  
+### Fixed 
+- Evaluate http status code both 200 and 201
+- Bug fix for launch uploader node with docker-compose 
+
 ## [0.8.7] = 2022-06-23
 ### Fixed
 - Fix config save bug 
