@@ -1,3 +1,7 @@
+## [0.8.9] = 2022-06-24
+### Fixed 
+- Uploading file to S3 in non-multi-part mode 
+
 ## [0.8.8] = 2022-06-23
 ### Changed
 - Recording workflow adjustment to the same as mobile app
