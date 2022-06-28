@@ -1,3 +1,8 @@
+## [0.8.10] = 2022-06-25
+### Fixed 
+- Set and get the meta data for footage 
+- Use the create time of the footage folder as the timestamp of the footage 
+
 ## [0.8.9] = 2022-06-24
 ### Fixed 
 - Uploading file to S3 in non-multi-part mode 
