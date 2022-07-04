@@ -1,3 +1,9 @@
+## [0.8.11] = 2022-07-02
+### Changed
+- Simplify the part id of the footage in uploading, with data time and sequential number only
+- Capture errors during uploading and forward to the client in status 
+- Make default recording video file name consists of data time and sequential number 
+
 ## [0.8.10] = 2022-06-25
 ### Fixed 
 - Set and get the meta data for footage 
