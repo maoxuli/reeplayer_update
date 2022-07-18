@@ -1,3 +1,15 @@
+## [0.8.12] = 2022-07-17
+### Added 
+- Stop recording when the free disk space is less than a threshold (configurable)
+- Increase the threads number for API thread pool (configurable)
+- Split the video file by settings of the max file size (kb) or max file time (ns) 
+
+### Fixed 
+- Continuously display the time and size of the file when the recording is paused 
+- Set the exposure compensation level to default value (0)
+- Install the default testing serial and token files 
+
+
 ## [0.8.11] = 2022-07-02
 ### Changed
 - Simplify the part id of the footage in uploading, with data time and sequential number only
